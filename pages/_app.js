@@ -1,5 +1,5 @@
-import "tailwindcss/tailwind.css"
 import "@material-tailwind/react/tailwind.css"
+import "tailwindcss/tailwind.css"
 import { Provider } from "react-redux"
 import store from "../redux/store"
 
